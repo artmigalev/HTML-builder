@@ -26,7 +26,7 @@ Please note that most tasks can be accomplished in multiple ways, and at this st
 
 ## Crosscheck
 
-The process for cross-checking is detailed in the repository's wiki.  
+The process for cross-checking is detailed in the repository's wiki.
 Once the cross-check begins, access the guidelines by following [this link](https://github.com/rolling-scopes-school/HTML-builder/wiki) and adhere to the instructions provided on the page.
 
 ### General Rules
@@ -39,9 +39,11 @@ Once the cross-check begins, access the guidelines by following [this link](http
 
 ## Table of Contents
 
-[01 Reading a File with Console Output](https://github.com/rolling-scopes-school/HTML-builder/blob/main/01-read-file)  
-[02 Writing Console Input to File](https://github.com/rolling-scopes-school/HTML-builder/blob/main/02-write-file)  
-[03 Displaying Information about Files Stored in a Folder](https://github.com/rolling-scopes-school/HTML-builder/blob/main/03-files-in-folder)  
-[04 Copying a Directory](https://github.com/rolling-scopes-school/HTML-builder/blob/main/04-copy-directory)  
-[05 Building the CSS Bundle](https://github.com/rolling-scopes-school/HTML-builder/blob/main/05-merge-styles)  
+
+[01 Reading a File with Console Output](https://github.com/rolling-scopes-school/HTML-builder/blob/main/01-read-file)
+[02 Writing Console Input to File](https://github.com/rolling-scopes-school/HTML-builder/blob/main/02-write-file)
+[03 Displaying Information about Files Stored in a Folder](https://github.com/rolling-scopes-school/HTML-builder/blob/main/03-files-in-folder)
+[04 Copying a Directory](https://github.com/rolling-scopes-school/HTML-builder/blob/main/04-copy-directory)
+[05 Building the CSS Bundle](https://github.com/rolling-scopes-school/HTML-builder/blob/main/05-merge-styles)
 [06 Building an HTML Page from Components and Styles](https://github.com/rolling-scopes-school/HTML-builder/blob/main/06-build-page)
+
