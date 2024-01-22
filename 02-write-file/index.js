@@ -4,7 +4,7 @@ const { stdin, stdout, exit } = process;
 
 const output = fs.createWriteStream(path.join(__dirname, 'destination.txt'));
 
-stdout.write(' please write your name !!');
+stdout.write('Hi my friend, please write your name!!\n');
 
 stdin.on('data', (data) => {
   const toStr = data.toString();
