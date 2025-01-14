@@ -16,3 +16,8 @@ stdin.on('data', (data) => {
     output.write(toStr);
   }
 });
+
+process.on('SIGINT', () => {
+  stdout.write('GoodBay!!!!');
+  exit();
+});
