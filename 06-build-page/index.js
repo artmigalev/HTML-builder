@@ -46,7 +46,6 @@ fs.readFile(tempPath, 'utf-8', (err, template) => {
         if (countRead === files.length) {
           fs.writeFile(destPath, template, (err) => {
             if (err) throw err;
-
           });
         }
       });
